@@ -1,9 +1,12 @@
 # Send Email as a Startup
 
-> [Graciously taken from sendwithus.com][36] using `hget`.
+> [Graciously taken from sendwithus.com][36] using [`hget`](https://github.com/bevacqua/hget).
 >
 > ```shell
-> hget https://www.sendwithus.com/resources/guide/ --root .col-md-10.isolated-super-compact --ignore .permalink-link,hr -m > readme.markdown
+> hget https://www.sendwithus.com/resources/guide/ \
+>   --root .col-md-10.isolated-super-compact \
+>   --ignore .permalink-link,hr \
+>   -m > readme.markdown
 > ```
 
 # Introduction
