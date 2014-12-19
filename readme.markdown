@@ -37,23 +37,23 @@ There are plenty of great explanations of the Pirate Model, including Dave McClu
 
 The Pirate Model is so named because it consists of five stages that make up the user life-cycle: Acquisition, Activation, Retention, Referral, and Revenue - or "AARRR".
 
-* ### Acquisition 
+#### Acquisition 
 
 People hear about you and land on your site. For the purposes of email planning we're also going to include anything that gets you a user's email address.
-* 
-### Activation 
+ 
+#### Activation 
 
 People actually use your product. They get to that "Aha!" moment when they experience the value proposition your company offers.
-* 
-### Retention 
+ 
+#### Retention 
 
 People come back. They stick with your product over time and develop an understanding of how it works and why they like it.
-* 
-### Referral
+ 
+#### Referral
 
 People invite their friends to try your product. They're good at describing and pitching your product to others, they share your content, or maybe they're inviting friends for an incentive -- that counts too!
-* 
-### Revenue
+ 
+#### Revenue
 
 Acquire Dubloons
 
