@@ -813,4 +813,4 @@ Send notifications that promote that behavior, content that educates them on you
 [33]: https://www.sendwithus.com/resources/templates
 [34]: http://www.wufoo.com
 [35]: http://blog.sendwithus.com/measuring-nps-with-wufoo-and-free-survey-templates/
-[36: https://www.sendwithus.com/resources/guide/
+[36]: https://www.sendwithus.com/resources/guide/
